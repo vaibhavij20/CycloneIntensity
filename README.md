@@ -23,8 +23,9 @@ This project focuses on predicting cyclone intensity from satellite images using
 * Task: Regression (Cyclone Intensity Prediction)
 * Evaluation Metrics:
 
-  * Mean Absolute Error (MAE): 9.12
-  * R² Score: 0.84
+  * Mean Absolute Error (MAE): 5.54
+  * R² Score: 0.93
+ 
 
 
 
